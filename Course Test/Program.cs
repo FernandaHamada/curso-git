@@ -7,8 +7,9 @@ namespace Course_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Good Morning!");
+          
             Console.WriteLine("how are you today");
+            Console.WriteLine("Tenha um bom dia");
 
             Console.ReadLine();
         }
